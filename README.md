@@ -1,242 +1,71 @@
-**# Python Data Science \& AI Foundations**
+<div align="center">
 
-> A hands-on learning repository for building strong data science.
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26,38&height=240&section=header&text=Python%20Libraries%20Playground&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=NumPy%20%E2%80%A2%20Pandas%20%E2%80%A2%20Matplotlib%20%E2%80%A2%20Seaborn&descAlignY=58&descAlign=50" width="100%"/>
 
-> foundation in the age of Generative AI.
+  <!-- Live Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Mastering+Python+Data+Analysis+from+Scratch;NumPy+Array+Vectorization+%26+Broadcasting;Pandas+Series%2C+DataFrames+%26+Advanced+Indexing;Exploratory+Data+Analysis+on+Real-World+Datasets;Matplotlib+%26+Seaborn+Statistical+Visualizations" alt="Typing SVG" />
+  </a>
 
+  <br/><br/>
 
+  <!-- Tech Stack Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=scipy&logoColor=white" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </p>
 
-I'm learning how real world data is handled, analyzed and visualized using python's most important data science libraries.
+  <!-- YouTube Course Link Badge -->
+  <p align="center">
+    <a href="https://youtube.com/playlist?list=PLEkC1_DzbPc6cFLC1uoDco7bszPKy4DnP&si=SUHbK4-KYU913Pw3" target="_blank">
+      <img src="https://img.shields.io/badge/Course_Reference-YouTube_Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Course Reference Playlist" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Actively_Learning-success?style=for-the-badge" alt="Status" />
+  </p>
 
-This repository is not just a collection of code - it is my learning journey.
+</div>
 
-&#x20;        from \*\*python -> data science -> machine learning -> Generative AI -> Agentic AI\*\*.
+---
 
-\_ \_ \_
+## 🎯 About This Repository
 
-**##** 🧠 **Why This Matters in the AI Era**
+This repository contains practical implementations, structured notes, algorithms, and exploratory data analysis (EDA) workflows developed while mastering Python's data analysis stack. All modules follow the [Python Libraries Video Series](https://youtube.com/playlist?list=PLEkC1_DzbPc6cFLC1uoDco7bszPKy4DnP&si=SUHbK4-KYU913Pw3), covering everything from memory-efficient vector operations to complex data wrangling.
 
+---
 
+## 📂 Repository Architecture
 
-AI tools can generate code quickly.
-
-
-
-But an AI-generated solution is only useful when I understand:
-
-
-
-\- What the data represents
-
-\- How to clean the data
-
-\- How to analyze patterns
-
-\- How to visualize information
-
-\- How to validate results
-
-\- How to turn data into useful insights
-
-
-
-**My learning pipeline:**
-
-
-
-```text
-
-Raw Data
-
-  ↓
-
-NumPy
-
-  ↓
-
-Pandas
-
-  ↓
-
-Data Cleaning
-
-  ↓
-
-Exploratory Data Analysis
-
-  ↓
-
-Matplotlib + Seaborn
-
-  ↓
-
-Machine Learning
-
-  ↓
-
-Generative AI
-
-  ↓
-
-Agentic AI Applications
-
-📚 **Libraries I'm Learning**
-
-🔢 NumPy
-
-Numerical computing and multidimensional arrays
-
-🐼 Pandas
-
-Data manipulation, cleaning and analysis
-
-📊 Matplotlib
-
-Data visualization
-
-🎨 Seaborn
-
-Statistical data visualization
-
-🔢 **01 — NumPy**
-
-Topics I'm practicing:
-
-NumPy arrays
-
-Dimensions and shapes
-
-Indexing
-
-Slicing
-
-Data types
-
-Reshaping
-
-Broadcasting
-
-Vectorization
-
-Mathematical operations
-
-Random numbers
-
-Basic linear algebra
-
-🐼 **02 — Pandas**
-
-Topics I'm practicing:
-
-Series
-
-Data Frame
-
-Reading CSV files
-
-Reading Excel files
-
-Selecting columns and rows
-
-Filtering data
-
-Sorting
-
-Handling missing values
-
-Group By
-
-Aggregation
-
-Merge and Join
-
-Data cleaning
-
-Exploratory Data Analysis
-
-📊 **03 — Matplotlib**
-
-Topics I'm practicing:
-
-Line plots
-
-Bar charts
-
-Scatter plots
-
-Histograms
-
-Pie charts
-
-Subplots
-
-Labels
-
-Titles
-
-Legends
-
-Annotations
-
-Custom visualizations
-
-🎨 **04 — Seaborn**
-
-Topics I'm practicing:
-
-Statistical visualization
-
-Distribution plots
-
-Box plots
-
-Violin plots
-
-Heatmaps
-
-Pair plots
-
-Count plots
-
-Correlation analysis
-
-Data storytelling
-
-🛠️ **Tech Stack**
-
-Python
-
+```bash
+python-libraries/
 │
-
-├── NumPy
-
-├── Pandas
-
-├── Matplotlib
-
-├── Seaborn
-
-└── Jupiter Notebook
-
-
-
-Development
-
+├── 📁 01_numpy/                          # High-performance numerical computing
+│   ├── 01_numpy_basics.ipynb
+│   ├── 02_numpy_operations.ipynb
+│   └── 03_broadcasting_vectorization.ipynb
 │
-
-├── VS Code
-
-├── Git
-
-└── GitHub
-
-
-
-**AUTHOR : ANUJ MISHRA**
-
-**ECE Student | Python |Data Science |AI**
-
-Currently learning and building with python, Data Science and Modern AI technologies.
-
-If you're learning python, Data Science or AI, feel free to explore this repository and build along.
-
+├── 📁 02_pandas/                         # Structured tabular data analysis
+│   ├── 01_series_introduction.ipynb
+│   ├── 07_editing_series.ipynb
+│   ├── 08_serieswith_pythonfunctionalities.ipynb
+│   ├── 09_dataframe_basics.ipynb
+│   └── 10_filtering_grouping_aggregating.ipynb
+│
+├── 📁 03_matplotlib/                     # Static 2D plots & figure customization
+│   ├── 01_line_scatter_plots.ipynb
+│   └── 02_subplots_layout_formatting.ipynb
+│
+├── 📁 04_seaborn/                        # High-level statistical visualization
+│   ├── 01_distribution_plots.ipynb
+│   └── 02_categorical_matrix_plots.ipynb
+│
+└── 📁 datasets/                          # Cleaned CSV files used across notebooks
+    ├── bollywood.csv
+    ├── kohli_ipl.csv
+    ├── subs.csv
+    └── ...
